@@ -1,0 +1,44 @@
+ 
+
+.edit-course-details{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    align-items: center;
+    border-width: 5dp;
+    border-color: black;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.form-group{
+    margin-top: 20px;
+    width: 100%;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    align-items: center;
+}
+.form-checkbox{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    align-items: center;
+}
+.form-button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    align-items: center;
+    
+}
+.text-field{
+    width: 90%;
+}
